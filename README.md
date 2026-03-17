@@ -32,5 +32,5 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/Dctools.git
+git clone https://github.com/Kasnovitch/Dctools.git
 cd Dctools
